@@ -2,7 +2,7 @@
 
 (function (){
 angular
-.module("git-teams", ["angularComp"])
 
+.module("git-teams", ["angularComp"])
 
 })();
